@@ -1,0 +1,5 @@
+{
+  "name": "MarkNote Mobile",
+  "description": "A clean, mobile-first Markdown editor with calendar views, export capabilities, and AI assistance.",
+  "requestFramePermissions": []
+}
